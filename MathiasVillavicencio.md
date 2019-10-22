@@ -7,6 +7,7 @@
 * Videojuegos
 * Dormir
 * Comer
+* Ver series
 
 ## Cita favorita
 
