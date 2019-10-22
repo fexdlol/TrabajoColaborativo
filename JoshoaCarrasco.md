@@ -5,6 +5,7 @@
 * Videojuegos
 * Escuchar música
 * Dormir
+* Ver TBBT
 
 ## Cita favorita
 
